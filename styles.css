@@ -60,6 +60,9 @@ margin-left: 20px;
 
 header {
     background: url(background.png);
+    background-position: center;
+    background-size:cover;
+    background-repeat:no-repeat;
     height: 100vh;
     color: #fff;
     display: flex;
@@ -67,7 +70,7 @@ header {
     align-items: center;
     text-align: center;
     padding: 0 20px;
-}
+    }
 
 .header-content h1 {
     font-size: 48px;
