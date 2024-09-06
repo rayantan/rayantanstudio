@@ -255,8 +255,9 @@ background-image:url(portfolio2.jpg);
     }
     
     .contact-info .logo {
-        width: 150px;
-        height: auto;
+        width:150px;
+        height:150px;
+        border-radius: 160%;
         margin-bottom: 20px;
     }
     
